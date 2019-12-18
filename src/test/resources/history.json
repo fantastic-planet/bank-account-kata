@@ -1,0 +1,9 @@
+{
+	"balance":800,
+	"operations":[
+		{"id":"MOCK_ID1","userIdFrom":"MOCK_USER_ID","userIdTo":"MOCK_USER_ID","date":"1970-01-01T00:00:00","amount":200},
+		{"id":"MOCK_ID2","userIdFrom":"MOCK_USER_ID","userIdTo":"MOCK_USER_ID","date":"1970-01-01T00:00:00","amount":200},
+		{"id":"MOCK_ID3","userIdFrom":"MOCK_USER_ID","userIdTo":"MOCK_USER_ID","date":"1970-01-01T00:00:00","amount":200},
+		{"id":"MOCK_ID4","userIdFrom":"MOCK_USER_ID","userIdTo":"MOCK_USER_ID","date":"1970-01-01T00:00:00","amount":200}
+	]
+}
